@@ -119,4 +119,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Created by **Your Name** as a beginner HTML, CSS, and JavaScript practice project.
+Created by **Devpreet Singh** as a beginner HTML, CSS, and JavaScript practice project.
